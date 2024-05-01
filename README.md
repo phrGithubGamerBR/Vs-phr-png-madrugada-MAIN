@@ -59,12 +59,4 @@ I urge you to check out his project, [Izzy Engine](https://github.com/gedehari/I
     * CREDIT MAINTENANCE AND SOME MISC FIXES,
     * also scaleable text for dialogue functions;
 * the entire Funkin' crew:
-    * THEY MADE THE BASE GAME EXIST SO LIKE WITHOUT THEM THIS WOULD NOT HAVE BEEN POSSIBLE GO CHECK THEM OUT RIGHT NOW;
-
-----------------------------------------------
-## For compiling help, check out this little guide [here](/docs/COMPILE-HELP.md).
-## To see changes made to the engine, check out the changelog [here](/CHANGELOG.md).
-----------------------------------------------
-<h1 align="center">Thank you for checking out my engine!</h1>
-<h2 align="center">Got any questions? DM me at Yoshubs#0404 on Discord!</h2>
-
+    * THEY MADE THE BASE GAME EXIST SO LIKE WITHOUT THEM THIS WOULD NOT HAVE BEEN POSSIBLE GO CHECK THEM OUT RIGHT NO
